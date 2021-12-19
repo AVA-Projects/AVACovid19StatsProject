@@ -43,6 +43,9 @@ The build is minified and the filenames include the hashes.<br />
 
 ## Contribution
   [vaibhavnirmal2001](https://github.com/vaibhavnirmal2001)
+  
+  & 
+  
   [AVA Group](https://github.com/AVA-Projects)
 
 
