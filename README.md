@@ -2,6 +2,8 @@
 ## CovidPortal - AVA Project
 A project that shows live COVID19 data on charts,maps and developed with ReactJS and NodeJS.
 
+[Live Demo Site](https://avacovid19statsproject.netlify.app/)
+
 ## Getting Started
 
 ### `Get github repo`
