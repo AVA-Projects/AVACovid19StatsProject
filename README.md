@@ -2,11 +2,13 @@
 ## CovidPortal - AVA Project
 A project that shows live COVID19 data on charts,maps and developed with ReactJS and NodeJS.
 
+[Live Demo Site](https://avacovid19statsproject.netlify.app/)
+
 ## Getting Started
 
 ### `Get github repo`
 ```
-$ git clone Link of repo
+$ git clone https://github.com/AVA-Projects/AVACovid19StatsProject
 ```
 ### `npm install`
 
@@ -42,7 +44,11 @@ The build is minified and the filenames include the hashes.<br />
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 
 ## Contribution
-## @vaibhavnirmal2001
+  [vaibhavnirmal2001](https://github.com/vaibhavnirmal2001)
+  
+  & 
+  
+  [AVA Group](https://github.com/AVA-Projects)
 
 
 
